@@ -20,3 +20,9 @@ To set up the environment and install the necessary dependencies:
    ```bash
    git clone https://github.com/yourusername/pothole-detection-yolov8.git
    cd pothole-detection-yolov8
+
+![1](https://github.com/user-attachments/assets/e8e78283-be8b-4c04-aaea-24fad4ed360e)
+![2](https://github.com/user-attachments/assets/cfd42249-5192-4523-8095-7494ad3dcd98)
+![4](https://github.com/user-attachments/assets/6b6a8532-388b-438d-8ecd-3264ea7ee460)
+
+
